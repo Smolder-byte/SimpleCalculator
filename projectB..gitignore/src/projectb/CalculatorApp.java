@@ -8,6 +8,6 @@ package projectb;
  *
  * @author syoma
  */
-public class feature_multiply_divide {
+public class CalculatorApp {
     
 }

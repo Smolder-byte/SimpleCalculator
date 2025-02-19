@@ -8,6 +8,6 @@ package projectb;
  *
  * @author syoma
  */
-public class feature_power {
+public class Calculator {
     
 }

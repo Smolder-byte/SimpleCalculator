@@ -4,7 +4,7 @@ package projectb;
  *
  * @author syoma
  */
-public class ProjectB {
+public class main {
 
     /**
      * @param args the command line arguments
