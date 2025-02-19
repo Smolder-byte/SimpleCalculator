@@ -9,5 +9,14 @@ package projectb;
  * @author syoma
  */
 public class CalculatorApp {
+
     
 }
+
+
+        public static void main(String[] args) {
+            
+        }
+
+}
+
