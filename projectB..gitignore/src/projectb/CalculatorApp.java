@@ -9,5 +9,4 @@ package projectb;
  * @author syoma
  */
 public class CalculatorApp {
-    
 }
