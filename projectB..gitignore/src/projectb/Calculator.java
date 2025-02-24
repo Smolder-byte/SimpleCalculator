@@ -12,9 +12,13 @@ public class Calculator {
  public  double multiply(double a, double b)   {
     return a*b;
 }
-   public  double divide(double a, double b)   {
-    return a/b;
-    
-}  
- }
+ 
+ 
   
+ public double divide(double a, double b) throws Exception {
+        if (b == 0) { 
+            throw new Exception("Деление на ноль невозможно"); 
+        }
+        return a / b;
+    }
+}
