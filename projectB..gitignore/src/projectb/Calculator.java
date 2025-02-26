@@ -21,16 +21,16 @@ public class Calculator {
     public double subtract(double a, double b){
         return a - b;
     }
-    
+  
    public  double divide(double a, double b)   {
     return a/b;
     
 } 
   
- public double divide(double a, double b) throws Exception {
-        if (b == 0) { 
-            throw new Exception("пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ"); 
-        }
-        return a / b;
-    }
+// public double divide(double a, double b) throws Exception {
+//        if (b == 0) { 
+//            throw new Exception("На ноль делить нельзя"); 
+//        }
+//        return a / b;
+//    }
 }
